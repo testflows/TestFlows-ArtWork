@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="193.88667mm"
+   height="130.34561mm"
+   viewBox="0 0 687.00002 461.85453"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -149,9 +149,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter4243"
-       x="-0.070740497"
+       x="-0.070740499"
        width="1.141481"
-       y="-0.017649331"
+       y="-0.01764933"
        height="1.0352987">
       <feGaussianBlur
          inkscape:collect="always"
@@ -162,7 +162,7 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter4247"
-       x="-0.017603495"
+       x="-0.017603494"
        width="1.035207"
        y="-0.017603656"
        height="1.0352073">
@@ -188,16 +188,16 @@
        id="linearGradient4430"
        x1="399.47705"
        y1="1367.0302"
-       x2="454.3387"
+       x2="454.33871"
        y2="1367.0302"
        gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter4528"
-       x="-0.0069872592"
+       x="-0.0069872593"
        width="1.0139745"
-       y="-0.042670448"
+       y="-0.042670447"
        height="1.0853409">
       <feGaussianBlur
          inkscape:collect="always"
@@ -274,8 +274,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="436.1588"
-     inkscape:cy="679.70431"
+     inkscape:cx="294.1588"
+     inkscape:cy="168.66012"
      inkscape:document-units="px"
      inkscape:current-layer="g4783"
      showgrid="false"
@@ -286,7 +286,11 @@
      inkscape:window-x="1089"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     showguides="false" />
+     showguides="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -302,7 +306,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-142,-222.3622)">
     <g
        id="g4882"
        style="fill:#e6e6e6">
@@ -507,6 +512,6 @@
          sodipodi:role="line"
          id="tspan4813"
          x="250"
-         y="236.36221"></tspan></text>
+         y="236.36221" /></text>
   </g>
 </svg>
