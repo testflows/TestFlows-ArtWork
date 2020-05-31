@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="106.90089mm"
-   height="30.049194mm"
-   viewBox="0 0 106.90089 30.049194"
+   width="121.17916mm"
+   height="34.194122mm"
+   viewBox="0 0 121.17916 34.194122"
    version="1.1"
    id="svg8"
    sodipodi:docname="logo_grafana.svg"
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="95.8095"
-     inkscape:cy="47.914452"
+     inkscape:cx="118.80951"
+     inkscape:cy="59.15207"
      inkscape:document-units="mm"
      inkscape:current-layer="g3755"
      showgrid="false"
@@ -59,10 +59,10 @@
     </linearGradient>
     <inkscape:perspective
        id="perspective4707"
-       inkscape:persp3d-origin="97.591672 : 183.66666 : 1"
+       inkscape:persp3d-origin="97.591671 : 183.66666 : 1"
        inkscape:vp_z="202.59168 : 233.16664 : 1"
-       inkscape:vp_y="0 : 999.99992 : 0"
-       inkscape:vp_x="-7.4083336 : 233.16664 : 1"
+       inkscape:vp_y="0 : 999.99991 : 0"
+       inkscape:vp_x="-7.4083335 : 233.16664 : 1"
        sodipodi:type="inkscape:persp3d" />
     <linearGradient
        inkscape:collect="always"
@@ -90,18 +90,19 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
-     transform="translate(-58.871307,-142.12202)">
+     transform="translate(-52.785889,-140.95038)">
     <g
        id="g3755">
       <rect
-         style="opacity:1;fill:#161719;fill-opacity:0.99523806;stroke:none;stroke-width:0.26616997;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#161719;fill-opacity:0.99523806;stroke:none;stroke-width:0.30174714;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1000"
-         width="106.89166"
-         height="30.1625"
-         x="58.871307"
-         y="142.00871"
+         width="121.17916"
+         height="34.194122"
+         x="52.785889"
+         y="140.95038"
          inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96" />
+         inkscape:export-ydpi="96"
+         rx="10.429703" />
       <flowRoot
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Tlwg Typewriter';-inkscape-font-specification:'Tlwg Typewriter';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          id="flowRoot4605"
