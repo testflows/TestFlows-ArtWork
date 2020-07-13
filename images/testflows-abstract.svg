@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -108,12 +108,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1533"
-     inkscape:window-height="845"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
      id="namedview871"
      showgrid="false"
      inkscape:zoom="1.0423862"
-     inkscape:cx="314.70812"
+     inkscape:cx="147.30375"
      inkscape:cy="28.065875"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -174,7 +174,7 @@
        id="tspan946"
        x="48.89341"
        y="78.144272"
-       style="stroke-width:0.60103601">TestFlows</tspan></text>
+       style="stroke-width:0.60103601">testflows</tspan></text>
   <path
      style="fill:none;stroke:url(#linearGradient1013);stroke-width:2.51338577;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.35975611"
      d="m 175.99057,304.59223 c 119.27861,0 239.83534,0 336.24854,-17.4281 96.4132,-17.42811 169.32345,-52.28432 231.03993,-53.56333 61.71648,-1.27902 112.24241,31.01921 166.92478,6.87545 54.68237,-24.14376 113.52198,-104.7285 141.66278,-143.901364 28.1407,-39.172864 25.5824,-36.934363 23.0231,-34.694997"
@@ -199,10 +199,10 @@
        id="tspan985"
        x="172.28801"
        y="129.60077"
-       style="fill:#e6e6e6;stroke-width:0.81761646">Test Framework</tspan></text>
+       style="fill:#e6e6e6;stroke-width:0.81761646">Open-Source Software Testing Framework</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.0822258px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0.90999998px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.57705563;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.0822258px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0.90999997px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.57705563"
      x="277.45999"
      y="173.90645"
      id="text1010"><tspan
@@ -210,5 +210,16 @@
        id="tspan1008"
        x="277.45999"
        y="173.90645"
-       style="stroke-width:0.57705563;letter-spacing:0.90999998px;">where testing flows</tspan></text>
+       style="letter-spacing:0.90999997px;stroke-width:0.57705563">makes testing flow</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.67367363px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#e3e2db;fill-opacity:1;stroke:none;stroke-width:0.51684183"
+     x="219.27167"
+     y="77.963875"
+     id="text32"><tspan
+       sodipodi:role="line"
+       id="tspan30"
+       x="219.27167"
+       y="77.963875"
+       style="stroke-width:0.51684183">.com</tspan></text>
 </svg>
