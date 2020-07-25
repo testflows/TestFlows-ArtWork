@@ -10,14 +10,14 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="99.837547mm"
-   height="39.701229mm"
-   viewBox="0 0 99.837551 39.701229"
+   width="121.80784mm"
+   height="49.841167mm"
+   viewBox="0 0 121.80785 49.841168"
    version="1.1"
    id="svg8"
    sodipodi:docname="logo_grafana.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   inkscape:export-filename="/home/user/Yandex.Disk/project/TestFlows/imgs/testflows_logo6.png"
+   inkscape:export-filename="/home/user/Yandex.Disk/project/TestFlows/ArtWork/images/logo_grafana.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <sodipodi:namedview
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="196.25812"
-     inkscape:cy="76.394525"
+     inkscape:cx="233.44615"
+     inkscape:cy="109.08253"
      inkscape:document-units="mm"
      inkscape:current-layer="g922"
      showgrid="false"
@@ -71,10 +71,10 @@
     </linearGradient>
     <inkscape:perspective
        id="perspective4707"
-       inkscape:persp3d-origin="97.59167 : 183.66669 : 1"
-       inkscape:vp_z="202.59168 : 233.16667 : 1"
-       inkscape:vp_y="0 : 999.99993 : 0"
-       inkscape:vp_x="-7.4083334 : 233.16667 : 1"
+       inkscape:persp3d-origin="97.591682 : 183.6667 : 1"
+       inkscape:vp_z="202.59171 : 233.16668 : 1"
+       inkscape:vp_y="0 : 999.99997 : 0"
+       inkscape:vp_x="-7.4083343 : 233.16668 : 1"
        sodipodi:type="inkscape:persp3d" />
     <linearGradient
        inkscape:collect="always"
@@ -113,7 +113,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
-     transform="translate(-62.464681,-118.83869)">
+     transform="translate(-52.625347,-117.34746)">
     <g
        id="g3755">
       <flowRoot
@@ -147,9 +147,11 @@
              id="flowPara847" /></flowRoot>        <g
            style="fill:#4d4d4d;fill-opacity:1"
            id="g857"
-           transform="translate(14.365865,11.647621)">
+           transform="matrix(1.0043443,0,0,1.0106171,14.673439,10.166653)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
           <rect
-             style="opacity:1;fill:#000000;fill-opacity:0.99487179;stroke:#fff9f9;stroke-width:3.09992552;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.15897438;paint-order:stroke fill markers"
+             style="opacity:1;fill:#000000;fill-opacity:0.99487179;stroke:none;stroke-width:3.09992552;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.15897438;paint-order:stroke fill markers"
              id="rect2413"
              width="102.21173"
              height="41.822861"
@@ -158,7 +160,9 @@
         </g>
         <g
            id="g2430"
-           transform="translate(0.51743945,1.7819073)">
+           transform="translate(0.51743945,1.7819073)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
           <text
              id="text851"
              y="183.84781"
